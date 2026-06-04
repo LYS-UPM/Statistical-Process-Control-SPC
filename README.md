@@ -9,3 +9,6 @@ Capability Assessment: Integrated automated calculation of the Process Capabilit
 This system demonstrates the transition from traditional reactive quality control to predictive quality assurance. By visualizing out-of-control signals in the $\bar{X}-R$ charts, engineers can proactively halt production and recalibrate machinery, drastically minimizing the scrap rate and optimizing the Overall Equipment Effectiveness (OEE).
 # Formula:
 $$C_{pk} = \min \left( \frac{USL - \mu}{3\sigma}, \frac{\mu - LSL}{3\sigma} \right)$$
+
+<img width="908" height="452" alt="Screenshot 2026-06-05 050142" src="https://github.com/user-attachments/assets/cc94509c-b773-4428-8de9-c958c44169ba" />
+
